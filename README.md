@@ -10,14 +10,14 @@ _Managing social network posts in a single application. Support for Twitter, Fac
 ##Expects
 
 * 1.
-    a.
-    b.
-    c.
+    * a.
+    * b.
+    * c.
 * 2.
-    a.
-    b.
-    c.
+    * a.
+    * b.
+    * c.
 * 3.
-    a.
-    b.
-    c.
+    * a.
+    * b.
+    * c.
