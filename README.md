@@ -9,7 +9,7 @@ _Managing social network posts in a single application. Support for Twitter, Fac
 
 ##Expects
 
-* 1.
+* 1.__Name of the application__
     * a.
     * b.
     * c.
