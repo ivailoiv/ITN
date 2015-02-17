@@ -22,7 +22,7 @@ _Managing social network posts in a single application. Support for Twitter, Fac
     * b.
     * c.
 
-##Result
+##Results
 
 * 1.
     * a.
