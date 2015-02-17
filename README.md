@@ -9,15 +9,15 @@ _Managing social network posts in a single application. Support for Twitter, Fac
 
 ##Expects'
 
-*1.
-  a.
-  b.
-  c.
-*2.
-  a.
-  b.
-  c.
-*3.
-  a.
-  b.
-  c.
+<return>1.
+  <return>a.
+  <return>b.
+  <return>c.
+<return>2.
+  <return>a.
+  <return>b.
+  <return>c.
+<return>3.
+  <return>a.
+  <return>b.
+  <return>c.
